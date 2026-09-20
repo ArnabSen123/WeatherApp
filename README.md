@@ -21,20 +21,6 @@ A React weather dashboard that lets you search for a city and view its current w
 - `react-select-async-paginate` for city search
 - `react-accessible-accordion` for forecast details
 
-## Project structure
-
-```text
-src/
-  App.jsx                         Main application state and API orchestration
-  api.jsx                         Weather and city-search API configuration
-  main.jsx                        React application entry point
-  Components/
-    search/search.jsx             City search component
-    Current-Weather/              Current weather card
-    Forecast/                     Expandable forecast component
-public/
-  icons/                          Weather condition icons
-```
 
 ## Getting started
 
