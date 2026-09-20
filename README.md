@@ -67,6 +67,4 @@ npm run lint     # Run ESLint
 4. `CurrentWeather` renders the current conditions.
 5. `Forecast` renders forecast entries with expandable weather details.
 
-## Security note
 
-API keys should be treated as secrets. If a key has been committed to version control, revoke or rotate it through the relevant provider and move the replacement values to environment variables before using the application in production.
